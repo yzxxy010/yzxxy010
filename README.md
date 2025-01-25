@@ -12,4 +12,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/yzxxy010/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=星曜.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=是星曜哦~XingYao.
